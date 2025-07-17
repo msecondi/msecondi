@@ -26,7 +26,7 @@ UX Design (in progress), TypeScript, accessibility best practices
 
 - 🔥 **[Breathe]** – A mental health app that helps users process emotions through reflection and symbolic interaction.
 - 🎨 Portfolio Website – Built from scratch using React and SCSS. You’re looking at it: [matthewsecondi.com](https://www.matthewsecondi.com)
-- Lululemon X BrainStation Industry Project Winner - Collaborated with a team of data analysts and developers to deliver a client-facing front-end prototype for Lululemon, scaling community engagment and transforming siloed insights into meaningful, loyalty-building wellness experiences. https://industryprojectteam1.netlify.app/
+- [Lululemon X BrainStation Industry Project Winner](https://industryprojectteam1.netlify.app/) - Collaborated with a team of data analysts and developers to deliver a client-facing front-end prototype for Lululemon, scaling community engagment and transforming siloed insights into meaningful, loyalty-building wellness experiences.
 
 ---
 
