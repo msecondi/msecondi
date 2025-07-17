@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Matthew Secondi
 
-<!--
-**msecondi/msecondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer with a deep interest in mental health, human connection, and building meaningful digital experiences. I recently completed an intensive Software Engineering Bootcamp at BrainStation, where I designed and developed full-stack applications that blend empathy, storytelling, and thoughtful interaction.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Care About
+
+- **Human-centered design** – I believe tech should feel intuitive, warm, and purposeful.
+- **Mental health & emotional expression** – My capstone app, *Breathe*, helps users reflect and reconnect.
+- **Bridging development with empathy** – I aim to write clean, scalable code without losing sight of the human on the other side of the screen.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Tools:**  
+JavaScript, React, Node.js, Express, SCSS, MySQL, Git, REST APIs, Figma
+
+**Currently Learning:**  
+UX Design (in progress), TypeScript, accessibility best practices
+
+---
+
+## ✨ Projects
+
+- 🔥 **[Breathe]** – A mental health app that helps users process emotions through reflection and symbolic interaction.
+- 🎨 Portfolio Website – Built from scratch using React and SCSS. You’re looking at it: [matthewsecondi.com](https://www.matthewsecondi.com)
+
+---
+
+## 🌱 Outside Tech
+
+I’m also involved in 🎭 local theatre, ♟️ chess clubs, and finding ways to bring more humanity into digital spaces. I’m always up for a good conversation about design, purpose, or a quiet hike under the stars.
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 Website: [matthewsecondi.com](https://www.matthewsecondi.com)
+- 💼 LinkedIn: [linkedin.com/in/matthewsecondi](https://www.linkedin.com/in/matthewsecondi/)
+- 📫 Email: matt_secondi@hotmail.com
+
+Thanks for stopping by 👣
