@@ -32,7 +32,7 @@ UX Design (in progress), TypeScript, accessibility best practices
 
 ## 🌱 Outside Tech
 
-I’m also involved in 🎭 local theatre, ♟️ chess clubs, and finding ways to bring more humanity into digital spaces. I’m always up for a good conversation about design, purpose, or a quiet hike under the stars.
+I’m also involved in 🎭 local theatre, ♟️ chess clubs, and finding ways to bring more humanity into digital spaces. I’m always up for a good conversation about design, purpose, or spending time in nature.
 
 ---
 
@@ -41,5 +41,3 @@ I’m also involved in 🎭 local theatre, ♟️ chess clubs, and finding ways 
 - 🌐 Website: [matthewsecondi.com](https://www.matthewsecondi.com)
 - 💼 LinkedIn: [linkedin.com/in/matthewsecondi](https://www.linkedin.com/in/matthewsecondi/)
 - 📫 Email: matt_secondi@hotmail.com
-
-Thanks for stopping by 👣
