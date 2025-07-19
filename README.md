@@ -15,10 +15,10 @@ I'm a frontend developer with a deep interest in mental health, human connection
 ## 🔧 Tech Stack
 
 **Languages & Tools:**  
-JavaScript, React, Node.js, Express, SCSS, MySQL, Git, REST APIs, Figma
+JavaScript, React, Node.js, Express, HTML, SCSS/CSS, MySQL, Git, REST APIs
 
 **Currently Learning:**  
-UX Design (in progress), TypeScript, accessibility best practices
+UX Design, Figma, TypeScript, accessibility best practices
 
 ---
 
