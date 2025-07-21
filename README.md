@@ -18,7 +18,7 @@ I'm a software developer with a deep interest in mental health, human connection
 JavaScript, React, Node.js, Express, HTML, SCSS/CSS, MySQL, Git, REST APIs
 
 **Currently Learning:**  
-UX Design, Figma, TypeScript, accessibility best practices
+UX Design, Figma, TypeScript, Tailwind, accessibility best practices
 
 ---
 
