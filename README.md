@@ -7,7 +7,7 @@ I'm a software developer with a deep interest in mental health, human connection
 ## 🧠 What I Care About
 
 - **Human-centered design** – I believe tech should feel intuitive, warm, and purposeful.
-- **Mental health & emotional expression** – My capstone app, *Breathe*, helps users reflect and reconnect.
+- **Mental health & emotional expression** – My capstone app, *breathe*, helps users reflect and reconnect.
 - **Bridging development with empathy** – I aim to write clean, scalable code without losing sight of the human on the other side of the screen.
 
 ---
@@ -25,7 +25,7 @@ UX Design, Figma, TypeScript, MUI, Tailwind CSS, accessibility best practices
 ## ✨ Projects
 
 - 🎨 **[Portfolio Website](https://www.matthewsecondi.com)** – Built from scratch using React and SCSS to showcase myself.
-- 🔥 **[Breathe](https://github.com/msecondi/Breathe-Client)** – A mental health app that helps users process emotions through reflection and symbolic interaction.
+- 🔥 **[breathe](https://github.com/msecondi/Breathe-Client)** – A mental health app that helps users process emotions through reflection and symbolic interaction.
 - 🏆 **[Lululemon X BrainStation - Industry Project Winner](https://industryprojectteam1.netlify.app/)** - Collaborated with a team of data analysts and developers to deliver a client-facing front-end prototype for Lululemon, scaling community engagment and transforming siloed insights into meaningful, loyalty-building wellness experiences.
 
 ---
