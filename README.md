@@ -22,9 +22,9 @@ UX Design, Figma, TypeScript, MUI, Tailwind CSS, accessibility best practices
 
 ---
 
-## ✨ Projects
+## ✨ Technical Experience
 
-- 🎨 **[Portfolio Website](https://www.matthewsecondi.com)** – Built from scratch using React and SCSS to showcase myself.
+- 🎨 **[Portfolio Website](https://www.matthewsecondi.com)** – Built from scratch using to showcase myself.
 - 🔥 **[breathe](https://github.com/msecondi/Breathe-Client)** – A mental health app that helps users process emotions through reflection and symbolic interaction.
 - 🏆 **[Lululemon X BrainStation - Industry Project Winner](https://industryprojectteam1.netlify.app/)** - Collaborated with a team of data analysts and developers to deliver a client-facing front-end prototype for Lululemon, scaling community engagment and transforming siloed insights into meaningful, loyalty-building wellness experiences.
 
