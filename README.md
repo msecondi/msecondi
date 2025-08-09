@@ -7,7 +7,7 @@ I'm a software developer with a deep interest in mental health, human connection
 ## 🧠 What I Care About
 
 - **Human-centered design** – I believe tech should feel intuitive, warm, and purposeful.
-- **Mental health & emotional expression** – My capstone app, *breathe*, helps users reflect and reconnect.
+- **Self-inquiry & emotional expression** – My capstone app, *breathe*, helps users reflect and reconnect.
 - **Bridging development with empathy** – I aim to write clean, scalable code without losing sight of the human on the other side of the screen.
 
 ---
