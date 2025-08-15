@@ -1,6 +1,6 @@
 # 👋🏼 Hey, I'm Matthew Secondi
 
-I'm a software developer with a deep interest in mental health, human connection, and building meaningful digital experiences. I recently completed an intensive Software Engineering Bootcamp at BrainStation, where I primarily developed, but also designed, full-stack applications that blend functionality with empathy, storytelling, and thoughtful interaction.
+I'm a full-stack developer with a deep interest in mental health, human connection, and building meaningful digital experiences. I recently completed an intensive Software Engineering Bootcamp at BrainStation, where I primarily developed, but also designed, full-stack applications that blend functionality with empathy, storytelling, and thoughtful interaction.
 
 ---
 
