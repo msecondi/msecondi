@@ -32,7 +32,7 @@ UX Design, Figma, Tailwind CSS, TypeScript, MUI, accessibility best practices
 
 ## 🌱 Outside Tech
 
-I’m also involved in 🎭 local theatre, 🏐 🏈 sports teams, and finding ways to grow as a person. I’m always up for a good conversation and exchanging ideas.
+I’m also involved in 🎭 local theatre, local sports teams, and finding ways to grow as a person. I’m always up to exchange ideas and consider new perspectives!
 
 ---
 
