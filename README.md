@@ -18,7 +18,7 @@ I'm a full-stack developer with a deep interest in mental health, human connecti
 JavaScript, React, Node.js, Express, HTML, SCSS/CSS, MySQL, Git, REST APIs
 
 **Currently Learning:**  
-UX Design, Figma, TypeScript, MUI, Tailwind CSS, accessibility best practices
+UX Design, Figma, Tailwind CSS, TypeScript, MUI, accessibility best practices
 
 ---
 
