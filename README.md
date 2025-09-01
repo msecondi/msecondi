@@ -15,10 +15,10 @@ I'm a full-stack developer with a deep interest in mental health, human connecti
 ## 🔧 Tech Stack
 
 **Languages & Tools:**  
-JavaScript, React, Node.js, Express, HTML, SCSS/CSS, MySQL, Git, REST APIs
+JavaScript, React, Node.js, Express, HTML, SCSS/CSS, MySQL, Git, REST APIs, Figma
 
 **Currently Learning:**  
-UX Design, Figma, Tailwind CSS, TypeScript, MUI, accessibility best practices
+UX Design, Tailwind CSS, TypeScript, MUI, accessibility best practices
 
 ---
 
