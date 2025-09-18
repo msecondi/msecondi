@@ -4,7 +4,7 @@ I'm a full-stack developer with a deep interest in mental health, human connecti
 
 ---
 
-## 🧠 What I Care About
+## 🧠 What Drives Me
 
 - **Human-centered design** – I believe tech should feel intuitive, warm, and purposeful.
 - **Self-inquiry & emotional expression** – My capstone app, *breathe*, helps users reflect, process and reconnect.
