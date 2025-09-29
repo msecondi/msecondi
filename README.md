@@ -14,11 +14,11 @@ I’m a full-stack developer and certified UX designer with a focus on **human-c
 
 ## 🔧 Tech Stack
 
-**Languages & Tools:**  
-JavaScript, React, Node.js, Express, HTML, SCSS/CSS, MySQL, Git, REST APIs, Figma
+**Proficient:**  
+JavaScript(ES6+), React, Node.js, Express, MySQL, REST APIs, Git, HTML, SCSS/CSS, REST APIs
 
-**Currently Learning:**  
-GCP (Cloud Run, Firebase), UX Design, Tailwind CSS, TypeScript, MongoDB (Mongoose), MUI, accessibility best practices
+**Familiar / Learning:**  
+TypeScript, MongoDB (Mongoose), Firebase, GCP (Cloud Run), MUI, Tailwind CSS, accessibility best practices
 
 ---
 
