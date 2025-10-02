@@ -1,6 +1,6 @@
 # 👋🏼 Hey, I'm Matthew Secondi
 
-I’m a full-stack developer and certified UX designer with a focus on **human-centered applications**. I aim to build software that’s functional, empathetic, and meaningful. Recently, I completed BrainStation’s intensive Software Engineering Bootcamp and earned my UX Design certification, giving me a unique perspective at the intersection of engineering and design. My projects combine storytelling, clean code, and thoughtful interaction to create digital experiences that connect with people.
+I’m a full-stack developer and certified UX designer with a focus on **human-centered applications**. I aim to build software that’s functional, empathetic, and meaningful. Recently, I completed BrainStation’s intensive Software Engineering Bootcamp and earned my UX Design certification, giving me a unique perspective at the intersection of development and design. My projects combine storytelling, clean code, and thoughtful interaction to create digital experiences that connect with people.
 
 ---
 
