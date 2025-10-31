@@ -24,7 +24,7 @@ TypeScript, MongoDB (Mongoose), Firebase, GCP (Cloud Run), MUI, Tailwind CSS, Ta
 
 ## ✨ Technical Experience
 - 💼 **[Software Engineer Intern - Equitable Analytics](https://www.equitable-analytics.com/)** – Supporting development, QA, and UX refinement within an enterprise analytics platform. Focused on improving onboarding processes, usability, and internal documentation practices.
-- 🎨 **[Portfolio Website](https://www.matthewsecondi.com)** – Built from scratch to showcase myself.
+- 🎨 **[Portfolio](https://www.matthewsecondi.com)** – Built from scratch to showcase myself.
 - 🔥 **[breathe](https://github.com/msecondi/Breathe-Client)** – A mental health app that helps users process emotions through reflection and symbolic interaction.
 - 🏆 **[Lululemon X BrainStation - Industry Project Winner](https://industryprojectteam1.netlify.app/)** - Collaborated with a team of data analysts and developers to deliver a client-facing front-end prototype for Lululemon, scaling community engagment and transforming siloed insights into meaningful, loyalty-building wellness experiences.
 
