@@ -32,7 +32,7 @@ TypeScript, MongoDB (Mongoose), Firebase, GCP (Cloud Run), MUI, Tailwind CSS, Ta
 
 ## 🌱 Outside Tech
 
-I stay creative and grounded through 🎭 local theatre, sports, and continuous self-development. Growth, in every sense, drives me.  
+I stay creative and grounded through 🎭 local theatre, 🏃🏽‍♂️ exercise, and continuous 💪🏼 self-development. Growth, in every sense, drives me.  
 
 ---
 
