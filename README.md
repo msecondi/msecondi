@@ -6,8 +6,8 @@ I’m a full-stack developer and certified UX designer with a focus on **human-c
 
 ## 🧠 What Drives Me
 
-- **Human-centered design** – I believe tech should feel intuitive, warm, and purposeful.
-- **Self-inquiry & emotional expression** – My capstone app, *breathe*, helps users reflect, process and reconnect.
+- **Human-centered design** – I believe tech should feel intuitive, simple, and purposeful.
+- **Self-inquiry & emotional expression** – My capstone project, *breathe*, helps users reflect, process and reconnect.
 - **Bridging development with empathy** – I aim to write clean, scalable code without losing sight of the human on the other side of the screen.
 
 ---
