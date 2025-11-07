@@ -1,43 +1,47 @@
 # 👋🏼 Hey, I'm Matthew Secondi
 
-I’m a full-stack developer and certified UX designer with a focus on **human-centered applications**. I aim to build software that’s functional, empathetic, and meaningful. Recently, I completed BrainStation’s intensive Software Engineering Bootcamp and earned my UX Design certification, giving me a unique perspective at the intersection of development & design. My projects combine storytelling, clean code, and thoughtful interaction to create digital experiences that look to connect with people.
+Full-stack developer and UX designer focused on building simple, ***human-centered software***. I completed BrainStation’s Software Engineering Bootcamp and earned a UX Design certification, giving me both the technical foundation and product thinking to contribute across engineering and experience design.
 
----
+I like building digital products that make people feel seen instead of processed.
 
-## 🧠 What Drives Me
+## 🧠 What I Care About
 
-- **Human-centered design** – I believe tech should feel intuitive, simple, and purposeful.
-- **Self-inquiry & emotional expression** – My capstone project, *breathe*, helps users reflect, process and reconnect.
-- **Bridging development with empathy** – I aim to write clean, scalable code without losing sight of the human on the other side of the screen.
+User experience grounded in clarity, simplicity, and respect for the user
 
----
+Code that feels clean to work in and scale with
+
+Technology that actually supports emotional and mental well-being
 
 ## 🔧 Tech Stack
 
-**Proficient:**  
-JavaScript(ES6+), React, Node.js, Express, MySQL, REST APIs, Git, HTML, SCSS/CSS
+***Proficient:***
+JavaScript (ES6+), React, Node.js, Express, MySQL, REST APIs, Git, HTML, SCSS/CSS
 
-**Familiar / Learning:**  
-TypeScript, MongoDB (Mongoose), Firebase, GCP (Cloud Run), MUI, Tailwind CSS, Tableau API, accessibility best practices
+***Familiar / Learning:***
+TypeScript, MongoDB, Firebase, GCP, MUI, Tailwind, Tableau API, accessibility practices
 
----
+## 💼 Industry Experience
 
-## ✨ Technical Experience
-- 💼 **[Software Engineer Intern - Equitable Analytics](https://www.equitable-analytics.com/)** – Supporting development, QA, and UX refinement within an enterprise analytics platform. Focused on improving onboarding processes, usability, and internal documentation practices.
-- 🎨 **[Portfolio](https://www.matthewsecondi.com)** – Built from scratch to showcase myself.
-- 🔥 **[breathe](https://github.com/msecondi/Breathe-Client)** – A mental health app that helps users process emotions through reflection and symbolic interaction.
-- 🏆 **[Lululemon X BrainStation - Industry Project Winner](https://industryprojectteam1.netlify.app/)** - Collaborated with a team of data analysts and developers to deliver a client-facing front-end prototype for Lululemon, scaling community engagment and transforming siloed insights into meaningful, loyalty-building wellness experiences.
+***Software Engineer Intern*** — Equitable Analytics
+Supporting platform usability, onboarding flow improvements, QA, and product feedback cycles for a data analytics platform. Working across engineering, design, and product inputs.
 
----
+## ✨ Projects
+
+***Portfolio Site*** — Designed and built from scratch
+
+***breathe*** — Emotional reflection web app, focused on clarity and therapeutic interaction design
+(Full-stack: React, Node, MySQL)
+
+***Lululemon x BrainStation (Winner)*** — Delivered a wellness platform prototype that gamified community engagement and aligned with brand values
 
 ## 🌱 Outside Tech
 
-I stay creative and grounded through 🎭 local theatre, 🏃🏽‍♂️ exercise, and continuous 💪🏼 self-development. Growth, in every sense, drives me.  
+Theatre, fitness, and self development. Anything that sharpens expression and presence.
 
----
+## 📬 Contact
 
-## 📬 Let's Connect
+🌐 Website: [matthewsecondi.com](https://www.matthewsecondi.com)
 
-- 🌐 Website: [matthewsecondi.com](https://www.matthewsecondi.com)
-- 💼 LinkedIn: [linkedin.com/in/matthewsecondi](https://www.linkedin.com/in/matthewsecondi/)
-- 📫 Email: matt_secondi@hotmail.com
+LinkedIn: [https://www.linkedin.com/in/matthew-secondi/](linkedin.com/in/matthewsecondi)
+
+✉️ Email: [matt_secondi@hotmail.com](matt_secondi@hotmail.com)
