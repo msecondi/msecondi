@@ -2,8 +2,6 @@
 
 Full-stack developer and UX designer focused on building simple, ***human-centered software***. I completed BrainStation’s Software Engineering Bootcamp and earned a UX Design certification, giving me both the technical foundation and product thinking to contribute across engineering and experience design.
 
-I like building digital products that make people feel seen instead of processed.
-
 ## 🧠 What I Care About
 
 User experience grounded in clarity, simplicity, and respect for the user
