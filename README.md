@@ -25,7 +25,7 @@ Supporting platform usability, onboarding flow improvements, QA, and product fee
 
 ## ✨ Projects
 
-***Portfolio Site*** — Designed and built from scratch
+***Portfolio*** — Designed and built from scratch
 
 ***breathe*** — Emotional reflection web app, focused on clarity and therapeutic interaction design
 (Full-stack: React, Node, MySQL)
