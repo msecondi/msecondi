@@ -4,11 +4,11 @@ Full-stack developer and UX designer focused on building ***human-centered softw
 
 ## 🧠 What I Care About
 
-User experience grounded in clarity, simplicity, and respect for the user
+User experience grounded in clarity and simplicity 
 
 Code that feels clean to work in and scale with
 
-Technology that actually supports emotional and mental well-being
+Technology that supports emotional and mental well-being
 
 ## 🔧 Tech Stack
 
