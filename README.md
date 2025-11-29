@@ -20,11 +20,11 @@ TypeScript, MongoDB, Firebase, GCP, MUI, Tailwind, Tableau API, accessibility pr
 
 ## 💼 Industry Experience
 
-***Software Engineer Intern*** — Equitable Analytics
-Supporting platform usability, onboarding flow improvements, QA, and product feedback cycles for a data analytics platform. Working across engineering, design, and product inputs.
-
 ***Front End Success Coach (Freelance)*** — Frontend Simplified
 Guiding students through a front end development program with technical support, progress tracking, and mentorship. Helping learners understand core concepts, troubleshoot code, build projects, and stay accountable through their bootcamp curriculum. Collaborating with coaches and internal teams to support smooth program delivery.
+
+***Software Engineer Intern*** — Equitable Analytics
+Supporting platform usability, onboarding flow improvements, QA, and product feedback cycles for a data analytics platform. Working across engineering, design, and product inputs.
 
 ## ✨ Projects
 
