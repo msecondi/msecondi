@@ -6,7 +6,7 @@ Full-stack developer and UX designer focused on building ***human-centered softw
 
 User experience grounded in clarity and simplicity 
 
-Code that feels clean to work in and scale with
+Code that feels clean to work and scale with
 
 Technology that supports emotional and mental well-being
 
