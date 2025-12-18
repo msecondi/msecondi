@@ -39,7 +39,7 @@ Supporting platform usability, onboarding flow improvements, QA, and product fee
 
 Theatre, fitness, and self development. Anything that sharpens expression and presence.
 
-## 📬 Contact
+## 📬 Contact Info
 
 🌐 Website: [matthewsecondi.com](https://www.matthewsecondi.com)
 
