@@ -1,78 +1,112 @@
 # 👋🏼 Hey, I'm Matthew Secondi
 
-Full-stack software developer focused on building human-centered web applications with clean user flows, practical backend logic, and thoughtful UX.
+Technical professional with a background in software development, technical support, UX, and customer-focused problem solving.
 
-I work with JavaScript, React, Node.js, Express, MySQL, and REST APIs, with a background that combines software engineering, UX design, student technical coaching, and career support. I completed BrainStation’s Software Engineering Bootcamp and UX Design Certificate, and I now support learners with debugging, project development, resume positioning, GitHub, portfolio, and LinkedIn improvements.
+I work primarily with JavaScript, React, Node.js, Express, MySQL, and REST APIs. My experience spans building full-stack applications, troubleshooting technical issues, supporting users through software and project blockers, contributing to QA and product workflows, and translating technical concepts into clear next steps.
+
+I completed a Software Engineering Diploma and UX Design Certificate through BrainStation and currently work in technical coaching and career support, where I help learners navigate JavaScript, React, debugging, GitHub, project development, and technical problem solving.
 
 ## 🧠 What I Care About
 
-- Building software that feels clear, useful, and human
-- Writing code that is easier to understand, maintain, and improve
-- Connecting frontend behavior with reliable backend structure
-- Creating tools that support reflection, learning, mental well-being, and real user needs
+- Building software that feels useful, intuitive, and human
+- Solving technical problems methodically and communicating solutions clearly
+- Connecting frontend behavior with reliable backend systems
+- Improving user experiences through thoughtful product and UX decisions
+- Helping people feel more confident using technology
+- Building systems that reduce friction rather than create it
 
-## 🔧 Tech Stack
+## 🔧 Technical Skills
 
-**Proficient:**  
-JavaScript ES6+, React, Node.js, Express, MySQL, REST APIs, Git, GitHub, HTML5, CSS3, SCSS, responsive design
+**Primary stack:**  
+JavaScript ES6+, React, Node.js, Express, MySQL, REST APIs, JSON, Git, GitHub, HTML5, CSS3, SCSS, responsive design
 
-**Familiar / Developing:**  
-TypeScript, MongoDB, Firebase, GCP, MUI, Tailwind, Tableau API, accessibility practices, TDD, CI/CD concepts
+**Tools and workflows:**  
+Jira, Agile workflows, Figma, QA testing, debugging, API troubleshooting, Git workflows, user flows, technical documentation
 
-## 💼 Industry Experience
+**Familiar / developing:**  
+TypeScript, MongoDB, Firebase, GCP, Cloud Run, MUI, Tailwind, Tableau API, accessibility practices, TDD, CI/CD concepts
 
-**Front-End Success Coach & Career Support Advisor**  
-**FES Institute** | Nov 2025 - Present
+## 💼 Experience
 
-I coach students through frontend development curriculum, debugging blockers, project milestones, and career materials. My work includes helping learners strengthen their JavaScript, React, GitHub, portfolio, LinkedIn, and resume positioning while guiding them toward more independent problem solving.
+### Front-End Success Coach & Career Support Advisor
+**FES Institute | Nov 2025 - Present**
 
-**Software Engineering Intern**  
-**Equitable Analytics** | Sep 2025 - Nov 2025
+I support learners working through JavaScript, React, GitHub, debugging, project milestones, and technical blockers.
 
-I supported platform usability, QA, onboarding flow improvements, and product feedback cycles for a data analytics platform. I worked across engineering, design, and product inputs while gaining exposure to GCP, Firebase, Cloud Run, Tableau API embedding, and Agile delivery.
+A major part of my work involves gathering context, helping isolate problems, explaining technical concepts clearly, and turning frustrating issues into practical next steps. I also support learners with portfolios, resumes, LinkedIn positioning, and career development.
 
-**Software Developer & UX Contributor**  
-**Murphy Charitable Foundation Uganda** | Aug 2025 - Oct 2025
+### Software Engineering Intern
+**Equitable Analytics | Sep 2025 - Nov 2025**
 
-I contributed to proposal management product work by connecting UX research, information architecture, user flows, and engineering constraints. The work gave me experience thinking across both product structure and implementation.
+I supported QA, onboarding flow review, platform usability, and product feedback for a data analytics platform.
+
+I collaborated across engineering, design, and product while gaining exposure to GCP, Firebase, Cloud Run, Tableau API embedding, and Agile delivery.
+
+### Software Developer & UX Contributor
+**Murphy Charitable Foundation Uganda | Aug 2025 - Oct 2025**
+
+I contributed to an early-stage software product through UX research, information architecture, user flows, wireframes, issue tracking, and engineering collaboration.
+
+The experience strengthened my ability to connect user needs, product decisions, and technical implementation.
+
+### Healthcare Operations
+Before moving into technology, I spent several years working in healthcare environments where accuracy, privacy, communication, documentation, and reliability mattered every day.
+
+That experience continues to influence how I approach software and support work: understand the problem, communicate clearly, follow through, and respect the people relying on the system.
 
 ## ✨ Projects
 
-**Breathe**  
-Full-stack mental health reflection app built with React, Node.js, Express, and MySQL. The project focuses on journaling flows, REST APIs, stateful UI, reflective interaction design, and emotionally grounded UX.
+### Breathe
+Full-stack mental health reflection application built with React, Node.js, Express, REST APIs, and MySQL.
 
-**In Stock**  
-Full-stack inventory management system built with React, Node.js, Express, and MySQL. Includes CRUD workflows, API routes, database operations, responsive UI, and form validation.
+The project includes journaling and reflection flows, stateful interfaces, API design, relational data, validation, error handling, and UX focused on creating a calm and approachable experience.
 
-**Lululemon x BrainStation (Winner)**  
-Winning React prototype for a community wellness platform. Built as part of a cross-functional team, with responsive frontend development, Google API integration, Agile collaboration, and stakeholder presentation.
+### In Stock
+Team-built inventory management application using React, Node.js, Express, and MySQL.
 
-**Portfolio**  
-Personal portfolio designed and built from scratch to present my projects, background, and career direction.
+The project included CRUD workflows, REST API routes, database operations, responsive UI, form validation, Git branches, pull requests, merges, and collaborative development.
 
-## 🌱 Currently Rebuilding
+### Lululemon x BrainStation
+**Winning team prototype**
 
-I am currently sharpening my full-stack fundamentals again after spending the past several months focused on student support, technical coaching, and career advising.
+Built a React prototype for a community wellness experience as part of a cross-functional team.
 
-My current focus is rebuilding consistency with:
+The project included responsive frontend development, Google API integration, Agile collaboration, and presenting the final solution to stakeholders.
 
-- React component architecture
-- Express API design
-- MySQL data modelling
+### Portfolio
+Personal portfolio designed and developed to showcase my projects, technical experience, UX background, and career direction.
+
+🌐 [matthewsecondi.com](https://www.matthewsecondi.com)
+
+## 🌱 Current Focus
+
+I'm continuing to deepen my technical foundation while exploring roles where software knowledge and communication intersect.
+
+Current areas of focus include:
+
+- JavaScript and React fundamentals
+- REST API design and troubleshooting
+- SQL and relational data
 - Authentication and protected routes
 - Form validation and error handling
-- Project documentation and deployment
+- QA and issue reproduction
+- Technical documentation
+- SaaS support and implementation workflows
 
-## 🌱 Outside Tech
+I'm particularly interested in opportunities across software development, technical support, application support, implementation, and solutions-focused roles.
 
-Theatre, fitness, and self development. Anything that sharpens expression, discipline, and presence.
+## 🎭 Outside Tech
 
-## 📬 Contact Info
+Theatre, fitness, and self-development.
+
+I enjoy anything that challenges expression, discipline, creativity, and confidence.
+
+## 📬 Contact
 
 🌐 Website: [matthewsecondi.com](https://www.matthewsecondi.com)
 
-LinkedIn: [linkedin.com/in/matthew-secondi](https://www.linkedin.com/in/matthew-secondi/)
+💼 LinkedIn: [linkedin.com/in/matthew-secondi](https://www.linkedin.com/in/matthew-secondi/)
 
-GitHub: [github.com/msecondi](https://github.com/msecondi)
+💻 GitHub: [github.com/msecondi](https://github.com/msecondi)
 
 ✉️ Email: [matt_secondi@hotmail.com](mailto:matt_secondi@hotmail.com)
