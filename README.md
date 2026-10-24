@@ -109,4 +109,4 @@ I enjoy anything that challenges expression, discipline, creativity, and confide
 
 💻 GitHub: [github.com/msecondi](https://github.com/msecondi)
 
-✉️ Email: [matt_secondi@hotmail.com](mailto:matt_secondi@hotmail.com)
+✉️ Email: [matthew@matthewsecondi.com](mailto:matthew@matthewsecondi.com)
